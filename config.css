@@ -41,3 +41,10 @@ footer{
 iframe{
     border:0px
 }
+.imgRedonda{
+  border-radius: 50%;
+  width: 500px;
+}
+.logo{
+  background-color: green;
+}

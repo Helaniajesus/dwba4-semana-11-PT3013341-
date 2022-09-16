@@ -4,7 +4,11 @@ div.logotipo, div.rodape{
 h1{
  text-align: center;
  margin-top: 20px;  
- color:blue
+ color:#040476;
+}
+.imgRedonda{
+  border-radius: 50%;
+  width: 500px;
 }
 
 
